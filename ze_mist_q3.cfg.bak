@@ -11,7 +11,7 @@ modify:
 		"OnMapSpawn" "serverCommandsay *** Special thanks Tsukasa and Stepanof(airwalls) ***3-1"
         "OnMapSpawn" "serverCommandsm_iammo @ct 011"
         "OnMapSpawn" "playerAddOutputhealth 10-1"		
-        "OnStartTouch" "serverCommandsay *** HP LIMIT VERSION ***3-1"
+        "OnMapSpawn" "serverCommandsay *** HP LIMIT VERSION ***3-1"
 	}
 }
 ;Remove hp restore
