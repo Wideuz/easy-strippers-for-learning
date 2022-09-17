@@ -44,8 +44,8 @@ modify:
     {
         "OnStartTouch" "!activatorAddOutputhealth 500.02-1"
         "OnStartTouch" "serverCommandsm_iammo @ct 101"
-		"OnStartTouch" "serverCommandsay Someone : wait! 1hp? hell no"
-		"OnStartTouch" "serverCommandsay Someone : Let me fix it to 50hp before disaster happen"
+		"OnStartTouch" "serverCommandsay ??? : wait! 1hp? hell no"
+		"OnStartTouch" "serverCommandsay widez : OK! Let me fix it to 50hp before disaster happen"
     }
 }
 ;infinite ammo closed
