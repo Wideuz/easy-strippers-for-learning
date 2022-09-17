@@ -1,4 +1,4 @@
-;Add the hp limit at spawn(need add command at your bspwhitelistfile)
+;Add the hp limit at spawn(need add command at your bspwhitelistfile "sm_iammo")
 modify:
 {
 	match:
